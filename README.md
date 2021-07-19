@@ -1,7 +1,9 @@
 using System;
 
 namespace funny
-   {
+
+{
+   
     class Program
     {
         static void Main(string[] args)
